@@ -5,7 +5,7 @@
   </picture>
 </p>
 <h1 align="center">
-Kernel Library for LLM Serving
+Kernel Library for LLM Serving!
 </h1>
 
 <p align="center">
